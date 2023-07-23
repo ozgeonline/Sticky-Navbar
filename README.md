@@ -1,2 +1,3 @@
 # Sticky-Navbar
- with js
+sticky navbar that changes color with scroll
+![preview](preview.png)
